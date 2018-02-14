@@ -1,0 +1,7 @@
+D:\Projects\Math\Math\bin\Debug\Math.exe.config
+D:\Projects\Math\Math\bin\Debug\Math.exe
+D:\Projects\Math\Math\bin\Debug\Math.pdb
+D:\Projects\Math\Math\obj\Debug\CalcSquare.csprojResolveAssemblyReference.cache
+D:\Projects\Math\Math\obj\Debug\CalcSquare.csproj.CoreCompileInputs.cache
+D:\Projects\Math\Math\obj\Debug\Math.exe
+D:\Projects\Math\Math\obj\Debug\Math.pdb
